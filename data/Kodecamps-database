@@ -1,0 +1,25 @@
+ {
+        "_id": "6231d81d9e3356d01da22226",
+        "name": "Olaolu",
+        "age": 25,
+        "message": "hey",
+        "date": "2022-03-17T18:10:20.491Z"
+    }
+    
+    {
+
+        "_id": "6231e6f56f64b1b218bf3a5b",
+        "name": "larms",
+        "age": 12,
+        "message": "hey there",
+        "date": "2022-03-16T13:32:37.194Z",
+        "__v": 0
+    }
+    {
+        "_id": "62336200924571d0268e8fd3",
+        "name": "yinka",
+        "age": 26,
+        "message": "preach tech",
+        "date": "2022-03-17T16:29:52.621Z",
+        "__v": 0
+    }
